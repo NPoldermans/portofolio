@@ -1,5 +1,5 @@
 <center>
-<font face="arial" size="8" Art by Poldermans></font>
+<font face="arial" size="8"> Art by Poldermans </font>
 </center>
 <br>
 <center>
