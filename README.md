@@ -1,0 +1,20 @@
+<center>
+<font face="arial" size="8">Nicks Gallary</font>
+</center>
+<br>
+<center>
+<p>
+	<a href="https://www.instagram.com/npoldermans/"> <font face="arial" size="5">Instagram</font> </a>
+</p> 
+	<body style="background-color: #6A7777"> </body>
+</center> 
+<center>
+<p> <img src="schilderij.jpg" width="700"	alt="schilderij"> </p>
+<p> <img src="schilderij1.jpg" width="700"	alt="tweede schilderij"> </p>
+<p> <video controls width="700">
+	<source src="schilderij2.mp4" type="video/mp4">
+</video> </p>
+<p> <img src="schilderij4.jpg" width="700" alt="schilderen bij jelte"> </p>
+<p> <img src="schilderij5.jpg" width="700" alt="schilderij die ik bij kim heb gemaakt"> </p>
+
+</center>
