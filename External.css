@@ -1,16 +1,28 @@
-External.css
 body {
- background-color: #333300;
- color: #FFFFFF;
+ background-color: #F0FFFF;
+ color: #000000;	
+ font-family: system-ui;
+ margin: 10px;
 }
+
+a {
+	text-decoration:none;
+	color: orange;
+}
+s
 h1 {
- color: #FFFF33;
+ color: #000000;
  text-align: center;
- font: italic 200% fantasy;
-}
+  border: 3px groove #F0FFFF;
+} 
+
 h3 {
- background-color: #FFFF33;
+ background-color: #F0FFFF;
  color: #333300;
- text-align: right;
- border: 3px groove #FFFF33;
+ text-align: left;
+}
+
+body {
+	width: 1000px;
+	margin: 0 auto;
 }
